@@ -1,0 +1,23 @@
+cloud:
+  aws:
+    credentials:
+      access-key: AKIA6GBMG4XSFJZ5EY6X
+      secret-key: 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
+    region:
+      static: us-east-2
+    stack:
+      auto: false
+
+application:
+  bucket:
+    name: javaviggastorage
+
+
+spring:
+  servlet:
+    multipart:
+      enabled: true
+      file-size-threshold: 2MB
+      max-file-size: 5MB
+      max-request-size: 10MB
+

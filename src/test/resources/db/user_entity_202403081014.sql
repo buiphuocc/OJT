@@ -1,0 +1,8 @@
+INSERT INTO student_class (id, fa_account, recer, address, area, dob, email, full_name, gender, gpa, graduated_date, certification_date, area, phone, school, status, others) VALUES
+('STD00002', 'my', 'HR Thuy AI', 'Vung Tau2', '', '2024-02-16', NULL, 'Vi Vo', 'Female', 8.2, '2024-02-16', NULL, 'Bussiness Administrator', NULL, 'DH KHTN', 'Active', NULL),
+('ST001', 'hungloipro123', 'Hj', '96 LTK', 'SG', '1990-01-01', 'hungloipro123@gmail.com', 'Huynh Hung Loi', 'Male', 10, '2003-10-10', '2024-03-05', 'CA', '969091310', 'FPTCanTho', 'inactive', 'Hello'),
+('ST003', 'SG', 'hj', '96 LTK', 'SG', '1990-01-01', 'Dan@gmail.com', 'ThanhDanhh', 'Male', 9, '2003-10-10', '2024-03-05', 'CA', '51515', 'FPTCanTho', 'inactive', 'Hello'),
+('ST004', 'SG', 'hj', '96 LTK', 'SG', '1990-01-04', 'Dangg@gmail.com', 'Zanggg', 'Male', 4.5, '2003-10-10', '2024-03-05', 'CA', '230356', 'FPTCanTho', 'active', 'Hello'),
+('ST002', 'SG', 'Hello', '96 LTK', 'SG', '1990-01-01', 'Hi@gmail.com', 'ThanhDanhh', 'Male', 7, '2003-10-10', '2024-03-05', 'CA', '123123', 'FPTCanTho', 'Disable', 'Hello'),
+('STD00001', '', 'HR Thuy AI', 'Vung Tau3', '', '2024-02-16', NULL, NULL, 'Female', 8.2, '2024-05-03', NULL, 'Bussiness Administrator', '0971007833', 'DH KHTN', 'inactive', NULL),
+('ST0001', '', 'Hoang', 'Vung Tau3', 'HC', '2024-02-16', 'danh@gmail.com', 'Danh', 'Male', 0, '2024-01-09', NULL, 'Software Engineering', '0971007893', 'FPT University', 'Active', NULL);
